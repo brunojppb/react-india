@@ -23,6 +23,7 @@ importers:
       next-transpile-modules: 9.0.0
       react: 18.2.0
       react-dom: 18.2.0
+      react-hot-toast: ^2.4.0
       tsconfig: workspace:*
       typescript: ^4.5.3
       ui: workspace:*
@@ -30,6 +31,7 @@ importers:
       next: 12.2.5_ir3quccc6i62x6qn6jjhyjjiey
       react: 18.2.0
       react-dom: 18.2.0_react@18.2.0
+      react-hot-toast: 2.4.0_biqbaboplfbrettd7655fr4n2y
       ui: link:../../packages/ui
     devDependencies:
       '@babel/core': 7.19.1

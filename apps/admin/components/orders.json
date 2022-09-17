@@ -1,0 +1,31 @@
+{
+  "orders": [
+    {
+      "id": 1,
+      "total": "99.99",
+      "products": [
+        {
+          "id": 1,
+          "name": "Art t-shirt",
+          "price": "49.99"
+        },
+        {
+          "id": 2,
+          "name": "Red t-shirt",
+          "price": "50"
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "total": "39.99",
+      "products": [
+        {
+          "id": 3,
+          "name": "Nice t-shirt",
+          "price": "39.99"
+        }
+      ]
+    }
+  ]
+}
