@@ -1,0 +1,24 @@
+{
+  "products": [
+    {
+      "name": "Art t-shirt",
+      "imgUrl": "/img/art-t-shirt.jpg",
+      "price": "40"
+    },
+    {
+      "name": "Nice t-shirt",
+      "imgUrl": "/img/nice-t-shirt.jpg",
+      "price": "44"
+    },
+    {
+      "name": "Red t-shirt",
+      "imgUrl": "/img/red-t-shirt.jpg",
+      "price": "30"
+    },
+    {
+      "name": "White t-shirt",
+      "imgUrl": "/img/white-t-shirt.jpg",
+      "price": "39"
+    }
+  ]
+}
