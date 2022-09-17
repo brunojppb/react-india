@@ -2,10 +2,10 @@
   "name": "ui",
   "version": "0.0.0",
   "main": "./src/index.tsx",
-  "types": "/src/index.tsx",
+  "types": "./src/index.tsx",
   "license": "MIT",
   "scripts": {
-    "lint": "eslint *.ts*"
+    "lint": "eslint ./src/*.ts*"
   },
   "devDependencies": {
     "@types/react": "^18.0.17",

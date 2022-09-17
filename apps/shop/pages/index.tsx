@@ -1,4 +1,3 @@
-import { Button } from "ui";
 import { Navbar } from "../components/Navbar";
 import { Products } from "../components/Products";
 
