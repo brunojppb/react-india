@@ -25,6 +25,7 @@
     "dev": "vite build --watch",
     "build": "tsc --noEmit && vite build",
     "test": "jest",
+    "lint": "eslint ./src",
     "clean": "rm -rf dist",
     "preview": "vite preview",
     "release": "pnpm publish --access public"
@@ -48,6 +49,8 @@
     "ts-node": "^10.8.1",
     "typescript": "^4.6.3",
     "vite": "^2.9.9",
-    "vite-plugin-dts": "^1.2.0"
+    "vite-plugin-dts": "^1.2.0",
+    "eslint": "7.32.0",
+    "eslint-config-custom": "workspace:*"
   }
 }
