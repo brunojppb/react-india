@@ -6,7 +6,7 @@ const style = {
   height: "2.81rem",
   lineHeight: "2.8rem",
   borderRadius: "7px",
-  backgroundColor: "red",
+  backgroundColor: "blue",
   color: "white",
   border: "none",
 };
