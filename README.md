@@ -2,6 +2,7 @@
 
 This is a TypeScript monorepo used to demo Turborepo during my talk at [React India](https://www.reactindia.io/).
 
+> [Here you can find my slides](./slides/Supercharging%20your%20dev%20experience%20with%20Turborepo.pdf) I've used during the React India talk.  
 > TODO: Insert talk link here once it's uploaded to YouTube.
 
 ## What's inside?
