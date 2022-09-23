@@ -64,6 +64,9 @@ Next, you can link your Turborepo to your Remote Cache by running the following 
 pnpm dlx turbo link
 ```
 
+> **Note**  
+> This project was created based on the templates provided by the awesome Turborepo folks [here](https://github.com/vercel/turborepo)
+
 ## Useful Links
 
 Learn more about the power of Turborepo:
